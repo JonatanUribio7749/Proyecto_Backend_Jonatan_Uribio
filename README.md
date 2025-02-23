@@ -75,4 +75,4 @@ FS (File System) para persistencia de datos.
 
 👨‍💻 Autor
 
-📌 Desarrollador: JONATAN URIBIO📌 Repositorio: GitHub📌 Fecha de Entrega: 22/02/2025
+📌 Desarrollador: Jonatan uribio📌 Repositorio: GitHub📌 Fecha de Entrega: 22/02/2025

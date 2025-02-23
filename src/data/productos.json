@@ -1,7 +1,10 @@
 [
   {
     "title": "sandia",
-    "price": 40,
-    "id": "1740247217774"
+    "description": "brasileña",
+    "price": 120,
+    "stock": 8,
+    "category": "frutas",
+    "id": "1740273992175"
   }
 ]
